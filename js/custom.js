@@ -6,7 +6,7 @@ $(function(){
     var $dis = $nav.offset().top;
     var $topbtn = $('.topbtn i');
     var html_body = $('html, body');
-
+ 
     //back to top button
     $('.topbtn').on('click', function(){
       

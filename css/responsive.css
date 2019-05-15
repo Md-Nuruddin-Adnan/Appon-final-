@@ -4,7 +4,7 @@
 
 /* =========== ================ */
 @media (max-width:575px) {
-
+ 
   /* =========bannerSection========= */
   .brand_logo{
     width:60%;
@@ -91,7 +91,7 @@
   }
 
   #scrn-shot {
-    padding: 45px 0;
+    padding: 45px 0 0 0;
   }
 
   /* =============Video Section==================== */
